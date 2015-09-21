@@ -1,7 +1,7 @@
 teamcity_api
 =========
 
-## A Python wrapper for the Teamcity 8.x REST API (Python)
+## A Python wrapper for the Teamcity 8.x REST API
 
 For more information see https://confluence.jetbrains.com/display/TCD8/REST+API
 
