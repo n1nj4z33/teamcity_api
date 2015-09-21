@@ -1,7 +1,7 @@
 teamcity_api
 =========
 
-## A Python wrapper for the Teamcity 8.x REST API
+## A python wrapper for the Teamcity 8.x REST API
 
 For more information see https://confluence.jetbrains.com/display/TCD8/REST+API
 
@@ -9,4 +9,4 @@ For more information see https://confluence.jetbrains.com/display/TCD8/REST+API
 * requests http://www.python-requests.org/
 * logging https://docs.python.org/2/library/logging.html
 
-    sudo pip install -r requirements.txt
+		sudo pip install -r requirements.txt
