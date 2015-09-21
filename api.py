@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 '''
-A python wrapper for the Teamcity API
+A python wrapper for the Teamcity 9.x REST API
 For more information see https://confluence.jetbrains.com/
 '''
 import requests
