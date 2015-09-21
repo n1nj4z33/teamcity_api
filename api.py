@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 '''
 A python wrapper for the Teamcity 9.x REST API
-For more information see https://confluence.jetbrains.com/
+For more information see https://confluence.jetbrains.com/display/TCD9/REST+API
 '''
 import requests
 from requests.utils import urlparse
