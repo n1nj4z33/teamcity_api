@@ -1,3 +1,2 @@
-teamcity_api
 logging>=0.4.9.6
 requests>=2.5.0
