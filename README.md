@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/n1nj4z33/teamcity_api.png)](https://travis-ci.org/n1nj4z33/teamcity_api)
 # teamcity_api
 
 
